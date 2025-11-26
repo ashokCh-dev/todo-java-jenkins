@@ -1,6 +1,0 @@
-todo-java-jenkins/
-    todo-app/
-        src/
-        pom.xml
-        Dockerfile   ← create this file here
-        target/
